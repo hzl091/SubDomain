@@ -1,0 +1,9 @@
+E:\mytest\SubDomain\SubDomain.App\bin\Debug\SubDomain.App.exe.config
+E:\mytest\SubDomain\SubDomain.App\bin\Debug\SubDomain.App.exe
+E:\mytest\SubDomain\SubDomain.App\bin\Debug\SubDomain.App.pdb
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.csprojResolveAssemblyReference.cache
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.Form1.resources
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.Properties.Resources.resources
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.csproj.GenerateResource.Cache
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.exe
+E:\mytest\SubDomain\SubDomain.App\obj\Debug\SubDomain.App.pdb
